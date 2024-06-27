@@ -1,6 +1,9 @@
 # Hero-Campus-Challenge-Season-9
 Problem Statement 1: AI based connected solution for Vehicle &amp; Driver Profiling Most of our 2 wheelers have TCUs (Telemetry Control Units) on them to collect  vehicle specific data. The data to &amp; from the TCU has to be streamed to a  Connected Cloud Platform.
 
+<img width="701" alt="image" src="https://github.com/somyakabra/Hero-Campus-Challenge-Season-9/assets/97023859/599d47fd-875f-4c55-879b-3c5ba8184a9f">
+
+
 
 Confusion Matrix.
 
