@@ -1,5 +1,5 @@
 # Hero-Campus-Challenge-Season-9
-Problem Statement 1: AI based connected solution for Vehicle &amp; 
+Problem Statement 1: AI based connected solution for Vehicle and Driver Profiling; 
 
 <img width="701" alt="image" src="https://github.com/somyakabra/Hero-Campus-Challenge-Season-9/assets/97023859/599d47fd-875f-4c55-879b-3c5ba8184a9f">
 
